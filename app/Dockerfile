@@ -4,5 +4,4 @@ RUN sleep 10
 RUN sleep 10
 RUN sleep 10
 RUN sleep 10
-RUN sleep 10
 COPY . /var/www/html/
